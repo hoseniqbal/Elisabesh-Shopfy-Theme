@@ -1,11 +1,9 @@
 {
   "name": "Template 404",
-  "layout": "custom_theme",
-  "wrapper": "div#404_tmapleate.custom-calss[custom-atttribute=hello]",
-  "sections":{
-    "temaplate-404":{
-      "type":"example-404"
+  "sections": {
+    "template":{
+      "type": "template-404"
     }
   },
-  "order":["template-404"]
+  "order":["template"]
 }
